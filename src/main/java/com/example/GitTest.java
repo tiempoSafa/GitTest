@@ -13,12 +13,9 @@ public class GitTest {
         System.out.println("hot fix add hello git5!");
         System.out.println("hot fix add hello git6!");
         System.out.println("push test git!");
-        System.out.println("push teswt git!");
-        System.out.println("push test1 git!");
         System.out.println("push test in web git!");
+        System.out.println("push test in IDEAALW git!");
         System.out.println("push test in IDEA git!");
-        System.out.println("push test in IDEA in c2 git!");
-        System.out.println("push test in c2 git!");
-        System.out.println("push tfgDEA in c2 git!");
+        System.out.println("push test in IDEAALW git!");
     }
 }
