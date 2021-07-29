@@ -16,5 +16,7 @@ public class GitTest {
         System.out.println("push test in web git!");
         System.out.println("push test in IDEA git!");
         System.out.println("push test in IDEA in c2 git!");
+        System.out.println("push test in c2 git!");
+        System.out.println("push tfgDEA in c2 git!");
     }
 }
