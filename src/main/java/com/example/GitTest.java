@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("hot fix add hello git6!");
         System.out.println("push test git!");
         System.out.println("push test in web git!");
+        System.out.println("push test in IDEA git!");
     }
 }
