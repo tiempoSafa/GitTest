@@ -19,5 +19,6 @@ public class GitTest {
         System.out.println("push test in IDEAALW git!");
         int a = 0;
         double d = 0;
+        String str = "hello";
     }
 }
